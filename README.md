@@ -1,11 +1,10 @@
 ## Santander Code Girls
 
-### Variáveis, dados e operadores em java.
+- Aula sobre variáveis, dados e operadores em java
 
+### Métodos Java - Criação 
 
-Exercício 01
-
-Métodos Java - Criação 
+-  Exercício 01 
 
 1 - Criar uma aplicação que resolva as seguintes situações:
 Calcule as 4 operações básicas: soma, subtração, multiplicação e divisão. Sempre 2 valores devem ser passados.
